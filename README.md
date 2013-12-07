@@ -1,10 +1,16 @@
-steambot
+Steambot
 ========
 
 Steambot software made for interaction with steam trades. The software is mainly an example, but it does work successfully. The bot, once downloaded, will have a user handler for demonstration purposes, of course you can just run on the user handler if you want just a keybot that sells and buys. The power of the software is up to you, and what you do with it. You can code an entire new userhandler to sell multiple items, or you can just have it sell one item. The item and pricing can be changed rather simply. Look at backpack examiner codes to find what item you want. The pricing is measured by scraps.
 
 
 This is based off of Jessecar96's steambot which his is no longer maintains, and is no longer operable. 
+
+Donating
+========
+
+Please consider donating! Donations keep me maintaining the project, and help with creating future projects.
+Visit phoritifye.blogspot.com
 
 Downloading
 ===========
